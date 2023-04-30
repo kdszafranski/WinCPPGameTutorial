@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameTutorial", "GameTutorial\GameTutorial.vcxproj", "{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|ARM.Build.0 = Debug|ARM
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|ARM64.Build.0 = Debug|ARM64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|x64.ActiveCfg = Debug|x64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|x64.Build.0 = Debug|x64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|x64.Deploy.0 = Debug|x64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|x86.Build.0 = Debug|Win32
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Debug|x86.Deploy.0 = Debug|Win32
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|ARM.ActiveCfg = Release|ARM
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|ARM.Build.0 = Release|ARM
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|ARM.Deploy.0 = Release|ARM
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|ARM64.ActiveCfg = Release|ARM64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|ARM64.Build.0 = Release|ARM64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|ARM64.Deploy.0 = Release|ARM64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|x64.ActiveCfg = Release|x64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|x64.Build.0 = Release|x64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|x64.Deploy.0 = Release|x64
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|x86.ActiveCfg = Release|Win32
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|x86.Build.0 = Release|Win32
+		{A6CD8AAC-464D-453C-AD8F-5D94AD94021A}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25C73E3-5AC2-4EC1-9A25-824611B1AD9D}
+	EndGlobalSection
+EndGlobal
