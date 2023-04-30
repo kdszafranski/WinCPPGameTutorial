@@ -73,10 +73,7 @@ struct App : implements<App, IFrameworkViewSource, IFrameworkView>
                 point.y >= offset.y &&
                 point.y < offset.y + size.y)
             {
-                // reset current selected
-                //m_selected.Size({ 100.0f, 100.0f });
-
-                // set new selected square
+                // set selected square
                 m_selected = visual;
                 m_selected.Size({ 50.0f, 50.0f }); // { } here creates a vector? array?
                 
